@@ -23,6 +23,10 @@ else{
     mangNhanVien = [];
 }*/
 
+function themNguoiDung(){
+    console.log("them nguoi dung minhchanh2");
+}
+
 
 function getEle(id){
     return document.getElementById(id);
