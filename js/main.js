@@ -24,7 +24,7 @@ else{
 }*/
 
 function themNguoiDung(){
-    console.log("them nguoi dung");
+    console.log("them nguoi dung minhchanh2");
 }
 
 
